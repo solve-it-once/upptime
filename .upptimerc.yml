@@ -1,23 +1,13 @@
-owner: koj-co
+owner: solve-it-once
 repo: upptime
 user-agent: KojBot
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: "Solve it once"
+    url: https://solveitonce.com
 assignees:
-  - AnandChowdhary
+  - ao5357
 status-website:
-  cname: upptime.js.org
+  cname: solveitonce.com/upptime
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
