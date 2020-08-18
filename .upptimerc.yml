@@ -7,7 +7,7 @@ sites:
 assignees:
   - ao5357
 status-website:
-  cname: solveitonce.com/upptime
+  cname: status.solveitonce.com
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
