@@ -37,7 +37,7 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Solve it once](https://solveitonce.com) | 🟩 Up | [solve-it-once.yml](https://github.com/solve-it-once/upptime/commits/master/history/solve-it-once.yml) | <img alt="Response time graph" src="./graphs/solve-it-once.png" height="20"> 159ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolve-it-once%2Fupptime%2Fmaster%2Fapi%2Fsolve-it-once%2Fuptime.json)
+| [Solve it once](https://solveitonce.com) | 🟩 Up | [solve-it-once.yml](https://github.com/solve-it-once/upptime/commits/master/history/solve-it-once.yml) | <img alt="Response time graph" src="./graphs/solve-it-once.png" height="20"> 154ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolve-it-once%2Fupptime%2Fmaster%2Fapi%2Fsolve-it-once%2Fuptime.json)
 
 <!--end: status pages-->
 
