@@ -5,6 +5,46 @@
     "slug": "solve-it-once",
     "status": "up",
     "uptime": "100.00",
-    "time": 183
+    "time": 186
+  },
+  {
+    "name": "Brad Czerniak",
+    "url": "https://bradczerniak.com",
+    "slug": "brad-czerniak",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 290
+  },
+  {
+    "name": "Shelby Brad",
+    "url": "https://shelbybrad.com",
+    "slug": "shelby-brad",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 362
+  },
+  {
+    "name": "Lower Barriers",
+    "url": "https://lowerbarriers.org",
+    "slug": "lower-barriers",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 300
+  },
+  {
+    "name": "Zenput",
+    "url": "https://www.zenput.com/",
+    "slug": "zenput",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 516
+  },
+  {
+    "name": "bw",
+    "url": "https://www.bowerswilkins.com/",
+    "slug": "bw",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 576
   }
 ]
