@@ -4,6 +4,16 @@ user-agent: KojBot
 sites:
   - name: "Solve it once"
     url: https://solveitonce.com
+  - name: "Brad Czerniak"
+    url: https://bradczerniak.com
+  - name: "Shelby Brad"
+    url: https://shelbybrad.com
+  - name: "Lower Barriers"
+    url: https://lowerbarriers.org
+  - name: "Zenput"
+    url: https://www.zenput.com/
+  - name: "bw"
+    url: https://www.bowerswilkins.com/
 assignees:
   - ao5357
 status-website:
