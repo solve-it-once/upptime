@@ -3,33 +3,33 @@
     "name": "Solve it once",
     "url": "https://solveitonce.com",
     "slug": "solve-it-once",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 194
+    "time": 195
   },
   {
     "name": "Brad Czerniak",
     "url": "https://bradczerniak.com",
     "slug": "brad-czerniak",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 198
+    "time": 247
   },
   {
     "name": "Shelby Brad",
     "url": "https://shelbybrad.com",
     "slug": "shelby-brad",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 210
+    "time": 257
   },
   {
     "name": "Lower Barriers",
     "url": "https://lowerbarriers.org",
     "slug": "lower-barriers",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 241
+    "time": 328
   },
   {
     "name": "Zenput",
