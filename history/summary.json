@@ -35,9 +35,9 @@
     "name": "Zenput",
     "url": "https://www.zenput.com/",
     "slug": "zenput",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 326
+    "time": 639
   },
   {
     "name": "bw",
