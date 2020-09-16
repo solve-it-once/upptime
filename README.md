@@ -8,7 +8,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟨 Partial outage**
+Live status: <!--live status--> **🟩 All systems operational**
 
 ## ⭐ How it works
 
@@ -42,7 +42,7 @@ _This section is updated automatically when the status of any site changes._
 | [Shelby Brad](https://shelbybrad.com) | 🟩 Up | [shelby-brad.yml](https://github.com/solve-it-once/upptime/commits/master/history/shelby-brad.yml) | <img alt="Response time graph" src="./graphs/shelby-brad.png" height="20"> 183ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolve-it-once%2Fupptime%2Fmaster%2Fapi%2Fshelby-brad%2Fuptime.json)
 | [Lower Barriers](https://lowerbarriers.org) | 🟩 Up | [lower-barriers.yml](https://github.com/solve-it-once/upptime/commits/master/history/lower-barriers.yml) | <img alt="Response time graph" src="./graphs/lower-barriers.png" height="20"> 178ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolve-it-once%2Fupptime%2Fmaster%2Fapi%2Flower-barriers%2Fuptime.json)
 | [Zenput](https://www.zenput.com/) | 🟩 Up | [zenput.yml](https://github.com/solve-it-once/upptime/commits/master/history/zenput.yml) | <img alt="Response time graph" src="./graphs/zenput.png" height="20"> 575ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolve-it-once%2Fupptime%2Fmaster%2Fapi%2Fzenput%2Fuptime.json)
-| [bw](https://www.bowerswilkins.com/) | 🟥 Down | [bw.yml](https://github.com/solve-it-once/upptime/commits/master/history/bw.yml) | <img alt="Response time graph" src="./graphs/bw.png" height="20"> 388ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolve-it-once%2Fupptime%2Fmaster%2Fapi%2Fbw%2Fuptime.json)
+| [bw](https://www.bowerswilkins.com/) | 🟩 Up | [bw.yml](https://github.com/solve-it-once/upptime/commits/master/history/bw.yml) | <img alt="Response time graph" src="./graphs/bw.png" height="20"> 400ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolve-it-once%2Fupptime%2Fmaster%2Fapi%2Fbw%2Fuptime.json)
 
 <!--end: status pages-->
 
