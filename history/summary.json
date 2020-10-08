@@ -5,7 +5,7 @@
     "slug": "solve-it-once",
     "status": "up",
     "uptime": "100.00",
-    "time": 224
+    "time": 226
   },
   {
     "name": "Brad Czerniak",
@@ -13,7 +13,7 @@
     "slug": "brad-czerniak",
     "status": "up",
     "uptime": "100.00",
-    "time": 191
+    "time": 192
   },
   {
     "name": "Shelby Brad",
@@ -21,15 +21,15 @@
     "slug": "shelby-brad",
     "status": "up",
     "uptime": "100.00",
-    "time": 191
+    "time": 193
   },
   {
     "name": "Lower Barriers",
     "url": "https://lowerbarriers.org",
     "slug": "lower-barriers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 170
+    "time": 171
   },
   {
     "name": "Zenput",
@@ -37,7 +37,7 @@
     "slug": "zenput",
     "status": "up",
     "uptime": "100.00",
-    "time": 536
+    "time": 382
   },
   {
     "name": "bw",
@@ -45,6 +45,6 @@
     "slug": "bw",
     "status": "up",
     "uptime": "100.00",
-    "time": 452
+    "time": 451
   }
 ]
