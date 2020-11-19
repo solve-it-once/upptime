@@ -53,7 +53,7 @@
     "slug": "iqstrategix",
     "status": "up",
     "uptime": "100.00",
-    "time": 93
+    "time": 95
   },
   {
     "name": "eo",
@@ -61,6 +61,6 @@
     "slug": "eo",
     "status": "up",
     "uptime": "100.00",
-    "time": 377
+    "time": 400
   }
 ]
