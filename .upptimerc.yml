@@ -11,9 +11,13 @@ sites:
   - name: "Lower Barriers"
     url: https://lowerbarriers.org
   - name: "Zenput"
-    url: https://www.zenput.com/
+    url: https://www.zenput.com
   - name: "bw"
-    url: https://www.bowerswilkins.com/
+    url: https://www.bowerswilkins.com
+  - name: "iqstrategix"
+    url: https://iqstrategix.com
+  - name: "eo"
+    url: https://www.eotechinc.com
 assignees:
   - ao5357
 status-website:
