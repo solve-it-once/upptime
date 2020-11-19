@@ -5,7 +5,7 @@
     "slug": "solve-it-once",
     "status": "up",
     "uptime": "100.00",
-    "time": 179
+    "time": 178
   },
   {
     "name": "Brad Czerniak",
@@ -13,7 +13,7 @@
     "slug": "brad-czerniak",
     "status": "up",
     "uptime": "100.00",
-    "time": 174
+    "time": 175
   },
   {
     "name": "Shelby Brad",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Zenput",
-    "url": "https://www.zenput.com/",
+    "url": "https://www.zenput.com",
     "slug": "zenput",
     "status": "up",
     "uptime": "100.00",
@@ -41,10 +41,26 @@
   },
   {
     "name": "bw",
-    "url": "https://www.bowerswilkins.com/",
+    "url": "https://www.bowerswilkins.com",
     "slug": "bw",
     "status": "up",
     "uptime": "100.00",
-    "time": 374
+    "time": 373
+  },
+  {
+    "name": "iqstrategix",
+    "url": "https://iqstrategix.com",
+    "slug": "iqstrategix",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 93
+  },
+  {
+    "name": "eo",
+    "url": "https://www.eotechinc.com",
+    "slug": "eo",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 377
   }
 ]
