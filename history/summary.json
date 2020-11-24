@@ -4,15 +4,15 @@
     "url": "https://solveitonce.com",
     "slug": "solve-it-once",
     "status": "up",
-    "uptime": "100.00",
-    "time": 165
+    "uptime": "100.00%",
+    "time": 164
   },
   {
     "name": "Brad Czerniak",
     "url": "https://bradczerniak.com",
     "slug": "brad-czerniak",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "99.99%",
     "time": 163
   },
   {
@@ -20,23 +20,23 @@
     "url": "https://shelbybrad.com",
     "slug": "shelby-brad",
     "status": "up",
-    "uptime": "100.00",
-    "time": 164
+    "uptime": "99.99%",
+    "time": 165
   },
   {
     "name": "Lower Barriers",
     "url": "https://lowerbarriers.org",
     "slug": "lower-barriers",
     "status": "up",
-    "uptime": "100.00",
-    "time": 145
+    "uptime": "99.98%",
+    "time": 146
   },
   {
     "name": "Zenput",
     "url": "https://www.zenput.com",
     "slug": "zenput",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "99.99%",
     "time": 324
   },
   {
@@ -44,23 +44,23 @@
     "url": "https://www.bowerswilkins.com",
     "slug": "bw",
     "status": "up",
-    "uptime": "100.00",
-    "time": 420
+    "uptime": "99.99%",
+    "time": 421
   },
   {
     "name": "iqstrategix",
     "url": "https://iqstrategix.com",
     "slug": "iqstrategix",
     "status": "up",
-    "uptime": "100.00",
-    "time": 216
+    "uptime": "100.00%",
+    "time": 225
   },
   {
     "name": "eo",
     "url": "https://www.eotechinc.com",
     "slug": "eo",
     "status": "up",
-    "uptime": "100.00",
-    "time": 498
+    "uptime": "100.00%",
+    "time": 743
   }
 ]
