@@ -13,15 +13,15 @@
     "slug": "brad-czerniak",
     "status": "up",
     "uptime": "100.00%",
-    "time": 162
+    "time": 161
   },
   {
     "name": "Shelby Brad",
     "url": "https://shelbybrad.com",
     "slug": "shelby-brad",
     "status": "up",
-    "uptime": "99.99%",
-    "time": 164
+    "uptime": "100.00%",
+    "time": 163
   },
   {
     "name": "Lower Barriers",
@@ -29,7 +29,7 @@
     "slug": "lower-barriers",
     "status": "up",
     "uptime": "99.98%",
-    "time": 144
+    "time": 145
   },
   {
     "name": "Zenput",
@@ -37,7 +37,7 @@
     "slug": "zenput",
     "status": "up",
     "uptime": "99.99%",
-    "time": 321
+    "time": 320
   },
   {
     "name": "bw",
@@ -45,7 +45,7 @@
     "slug": "bw",
     "status": "up",
     "uptime": "99.99%",
-    "time": 419
+    "time": 420
   },
   {
     "name": "iqstrategix",
@@ -53,7 +53,7 @@
     "slug": "iqstrategix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 216
+    "time": 213
   },
   {
     "name": "eo",
@@ -61,6 +61,6 @@
     "slug": "eo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 891
+    "time": 887
   }
 ]
