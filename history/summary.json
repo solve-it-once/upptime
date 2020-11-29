@@ -37,7 +37,7 @@
     "slug": "zenput",
     "status": "up",
     "uptime": "99.99%",
-    "time": 319
+    "time": 320
   },
   {
     "name": "bw",
@@ -45,7 +45,7 @@
     "slug": "bw",
     "status": "up",
     "uptime": "99.99%",
-    "time": 415
+    "time": 410
   },
   {
     "name": "iqstrategix",
@@ -53,7 +53,7 @@
     "slug": "iqstrategix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 209
+    "time": 205
   },
   {
     "name": "eo",
@@ -61,6 +61,6 @@
     "slug": "eo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 866
+    "time": 855
   }
 ]
