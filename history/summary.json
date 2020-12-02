@@ -59,8 +59,8 @@
     "name": "eo",
     "url": "https://www.eotechinc.com",
     "slug": "eo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "time": 800
+    "time": 793
   }
 ]
