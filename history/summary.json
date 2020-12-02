@@ -5,7 +5,7 @@
     "slug": "solve-it-once",
     "status": "up",
     "uptime": "100.00%",
-    "time": 159
+    "time": 157
   },
   {
     "name": "Brad Czerniak",
@@ -13,7 +13,7 @@
     "slug": "brad-czerniak",
     "status": "up",
     "uptime": "100.00%",
-    "time": 158
+    "time": 155
   },
   {
     "name": "Shelby Brad",
@@ -21,7 +21,7 @@
     "slug": "shelby-brad",
     "status": "up",
     "uptime": "100.00%",
-    "time": 159
+    "time": 157
   },
   {
     "name": "Lower Barriers",
@@ -29,7 +29,7 @@
     "slug": "lower-barriers",
     "status": "up",
     "uptime": "99.98%",
-    "time": 141
+    "time": 139
   },
   {
     "name": "Zenput",
@@ -37,7 +37,7 @@
     "slug": "zenput",
     "status": "up",
     "uptime": "99.99%",
-    "time": 315
+    "time": 311
   },
   {
     "name": "bw",
@@ -45,7 +45,7 @@
     "slug": "bw",
     "status": "up",
     "uptime": "99.99%",
-    "time": 401
+    "time": 399
   },
   {
     "name": "iqstrategix",
@@ -53,14 +53,14 @@
     "slug": "iqstrategix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 202
+    "time": 199
   },
   {
     "name": "eo",
     "url": "https://www.eotechinc.com",
     "slug": "eo",
     "status": "up",
-    "uptime": "99.90%",
-    "time": 812
+    "uptime": "99.91%",
+    "time": 800
   }
 ]
