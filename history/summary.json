@@ -5,7 +5,15 @@
     "slug": "solve-it-once",
     "status": "up",
     "uptime": "100.00%",
-    "time": 156
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 158,
+    "timeDay": 374,
+    "timeWeek": 136,
+    "timeMonth": 154,
+    "timeYear": 158
   },
   {
     "name": "Brad Czerniak",
@@ -13,7 +21,15 @@
     "slug": "brad-czerniak",
     "status": "up",
     "uptime": "100.00%",
-    "time": 154
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 155,
+    "timeDay": 286,
+    "timeWeek": 113,
+    "timeMonth": 145,
+    "timeYear": 155
   },
   {
     "name": "Shelby Brad",
@@ -21,7 +37,15 @@
     "slug": "shelby-brad",
     "status": "up",
     "uptime": "100.00%",
-    "time": 155
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 157,
+    "timeDay": 280,
+    "timeWeek": 109,
+    "timeMonth": 149,
+    "timeYear": 157
   },
   {
     "name": "Lower Barriers",
@@ -29,7 +53,15 @@
     "slug": "lower-barriers",
     "status": "up",
     "uptime": "99.98%",
-    "time": 137
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
+    "time": 139,
+    "timeDay": 296,
+    "timeWeek": 101,
+    "timeMonth": 137,
+    "timeYear": 139
   },
   {
     "name": "Zenput",
@@ -37,7 +69,15 @@
     "slug": "zenput",
     "status": "up",
     "uptime": "99.99%",
-    "time": 307
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 311,
+    "timeDay": 643,
+    "timeWeek": 271,
+    "timeMonth": 320,
+    "timeYear": 311
   },
   {
     "name": "bw",
@@ -45,7 +85,15 @@
     "slug": "bw",
     "status": "up",
     "uptime": "99.99%",
-    "time": 394
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 397,
+    "timeDay": 686,
+    "timeWeek": 252,
+    "timeMonth": 540,
+    "timeYear": 397
   },
   {
     "name": "iqstrategix",
@@ -53,14 +101,30 @@
     "slug": "iqstrategix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 197
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 203,
+    "timeDay": 380,
+    "timeWeek": 164,
+    "timeMonth": 203,
+    "timeYear": 203
   },
   {
     "name": "eo",
     "url": "https://www.eotechinc.com",
     "slug": "eo",
     "status": "up",
-    "uptime": "99.88%",
-    "time": 823
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 841,
+    "timeDay": 634,
+    "timeWeek": 720,
+    "timeMonth": 841,
+    "timeYear": 841
   }
 ]
