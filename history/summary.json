@@ -10,9 +10,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 116,
-    "timeWeek": 133,
-    "timeMonth": 151,
+    "timeDay": 100,
+    "timeWeek": 135,
+    "timeMonth": 149,
     "timeYear": 190
   },
   {
@@ -26,9 +26,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 112,
-    "timeWeek": 110,
-    "timeMonth": 142,
+    "timeDay": 106,
+    "timeWeek": 115,
+    "timeMonth": 141,
     "timeYear": 178
   },
   {
@@ -42,9 +42,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 102,
-    "timeWeek": 111,
-    "timeMonth": 146,
+    "timeDay": 111,
+    "timeWeek": 113,
+    "timeMonth": 145,
     "timeYear": 178
   },
   {
@@ -58,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 176,
-    "timeDay": 80,
-    "timeWeek": 98,
-    "timeMonth": 132,
+    "timeDay": 70,
+    "timeWeek": 95,
+    "timeMonth": 131,
     "timeYear": 176
   },
   {
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 403,
-    "timeDay": 145,
-    "timeWeek": 262,
-    "timeMonth": 311,
-    "timeYear": 403
+    "time": 402,
+    "timeDay": 139,
+    "timeWeek": 242,
+    "timeMonth": 306,
+    "timeYear": 402
   },
   {
     "name": "bw",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 418,
-    "timeDay": 199,
-    "timeWeek": 241,
-    "timeMonth": 519,
-    "timeYear": 418
+    "time": 417,
+    "timeDay": 206,
+    "timeWeek": 240,
+    "timeMonth": 510,
+    "timeYear": 417
   },
   {
     "name": "iqstrategix",
@@ -105,26 +105,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 100,
-    "timeWeek": 163,
-    "timeMonth": 197,
-    "timeYear": 197
+    "time": 196,
+    "timeDay": 155,
+    "timeWeek": 167,
+    "timeMonth": 196,
+    "timeYear": 196
   },
   {
     "name": "eo",
     "url": "https://www.eotechinc.com",
     "slug": "eo",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 828,
-    "timeDay": 622,
-    "timeWeek": 752,
-    "timeMonth": 828,
-    "timeYear": 828
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 816,
+    "timeDay": 371,
+    "timeWeek": 751,
+    "timeMonth": 816,
+    "timeYear": 816
   }
 ]
