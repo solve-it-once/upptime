@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 283,
-    "timeWeek": 223,
-    "timeMonth": 169,
-    "timeYear": 190,
+    "time": 189,
+    "timeDay": 123,
+    "timeWeek": 233,
+    "timeMonth": 167,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2020-09-03": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 316,
+    "time": 174,
+    "timeDay": 68,
     "timeWeek": 151,
-    "timeMonth": 133,
-    "timeYear": 175,
+    "timeMonth": 130,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2020-09-03": 6
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 249,
+    "timeDay": 79,
     "timeWeek": 150,
-    "timeMonth": 134,
+    "timeMonth": 132,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2020-09-03": 6
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 174,
-    "timeDay": 398,
-    "timeWeek": 180,
-    "timeMonth": 133,
-    "timeYear": 174,
+    "time": 173,
+    "timeDay": 65,
+    "timeWeek": 178,
+    "timeMonth": 130,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2020-10-08": 20,
       "2020-09-03": 6
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 394,
-    "timeDay": 528,
-    "timeWeek": 298,
+    "time": 393,
+    "timeDay": 284,
+    "timeWeek": 324,
     "timeMonth": 281,
-    "timeYear": 394,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2020-09-13": 18
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 407,
-    "timeDay": 615,
-    "timeWeek": 293,
-    "timeMonth": 270,
-    "timeYear": 407,
+    "time": 406,
+    "timeDay": 198,
+    "timeWeek": 311,
+    "timeMonth": 268,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2020-11-23": 11,
       "2020-09-16": 6
@@ -128,15 +128,15 @@
     "slug": "iqstrategix",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.90%",
-    "time": 206,
-    "timeDay": 396,
-    "timeWeek": 245,
-    "timeMonth": 208,
-    "timeYear": 206,
+    "time": 210,
+    "timeDay": 473,
+    "timeWeek": 285,
+    "timeMonth": 217,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2020-12-29": 29,
       "2020-12-12": 30
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
-    "time": 756,
-    "timeDay": 619,
-    "timeWeek": 788,
-    "timeMonth": 679,
-    "timeYear": 756,
+    "time": 754,
+    "timeDay": 594,
+    "timeWeek": 826,
+    "timeMonth": 677,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2020-12-02": 7,
       "2020-11-29": 16
