@@ -18,6 +18,8 @@ sites:
     url: https://iqstrategix.com
   - name: "eo"
     url: https://www.eotechinc.com
+  - name: "nypl"
+    url: https://www.nypl.org
 assignees:
   - ao5357
 status-website:
