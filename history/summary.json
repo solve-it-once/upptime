@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 100,
-    "timeWeek": 105,
-    "timeMonth": 179,
+    "timeDay": 96,
+    "timeWeek": 104,
+    "timeMonth": 176,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2020-09-03": 6
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 81,
+    "time": 171,
+    "timeDay": 91,
     "timeWeek": 99,
-    "timeMonth": 163,
-    "timeYear": 172,
+    "timeMonth": 161,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2020-09-03": 6
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 96,
-    "timeWeek": 117,
-    "timeMonth": 184,
-    "timeYear": 174,
+    "time": 175,
+    "timeDay": 197,
+    "timeWeek": 140,
+    "timeMonth": 188,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2020-09-03": 6
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 174,
-    "timeDay": 189,
-    "timeWeek": 103,
-    "timeMonth": 190,
+    "timeDay": 130,
+    "timeWeek": 99,
+    "timeMonth": 187,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2020-10-08": 20,
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 368,
-    "timeDay": 113,
-    "timeWeek": 118,
-    "timeMonth": 208,
+    "timeDay": 131,
+    "timeWeek": 122,
+    "timeMonth": 206,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2020-09-13": 18
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 392,
-    "timeDay": 150,
-    "timeWeek": 161,
-    "timeMonth": 306,
+    "timeDay": 152,
+    "timeWeek": 160,
+    "timeMonth": 301,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2020-11-23": 11,
@@ -132,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 323,
-    "timeDay": 482,
-    "timeWeek": 450,
+    "time": 325,
+    "timeDay": 474,
+    "timeWeek": 452,
     "timeMonth": 454,
-    "timeYear": 323,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2021-01-14": 40,
       "2020-12-29": 29,
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.71%",
-    "time": 685,
-    "timeDay": 675,
-    "timeWeek": 548,
-    "timeMonth": 645,
-    "timeYear": 685,
+    "time": 682,
+    "timeDay": 542,
+    "timeWeek": 530,
+    "timeMonth": 638,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2021-01-28": 28,
       "2021-01-16": 1,
@@ -166,5 +166,23 @@
       "2020-12-02": 7,
       "2020-11-29": 16
     }
+  },
+  {
+    "name": "nypl",
+    "url": "https://www.nypl.org",
+    "icon": "https://favicons.githubusercontent.com/www.nypl.org",
+    "slug": "nypl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 248,
+    "timeDay": 248,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
+    "dailyMinutesDown": {}
   }
 ]
