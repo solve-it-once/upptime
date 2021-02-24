@@ -10,6 +10,8 @@ sites:
     url: https://shelbybrad.com
   - name: "Lower Barriers"
     url: https://lowerbarriers.org
+  - name: "admissions"
+    url: https://admissions.umich.edu
   - name: "Zenput"
     url: https://www.zenput.com
   - name: "bw"
