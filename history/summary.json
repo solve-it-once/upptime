@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 86,
-    "timeWeek": 126,
-    "timeMonth": 164,
+    "timeDay": 68,
+    "timeWeek": 116,
+    "timeMonth": 161,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2020-09-03": 6
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 121,
-    "timeWeek": 125,
-    "timeMonth": 152,
-    "timeYear": 171,
+    "time": 170,
+    "timeDay": 112,
+    "timeWeek": 123,
+    "timeMonth": 150,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2020-09-03": 6
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 103,
-    "timeWeek": 128,
-    "timeMonth": 181,
+    "timeDay": 97,
+    "timeWeek": 124,
+    "timeMonth": 178,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2020-09-03": 6
@@ -71,14 +71,32 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 103,
-    "timeWeek": 109,
-    "timeMonth": 171,
+    "timeDay": 86,
+    "timeWeek": 104,
+    "timeMonth": 168,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2020-10-08": 20,
       "2020-09-03": 6
     }
+  },
+  {
+    "name": "admissions",
+    "url": "https://admissions.umich.edu",
+    "icon": "https://favicons.githubusercontent.com/admissions.umich.edu",
+    "slug": "admissions",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 345,
+    "timeDay": 345,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zenput",
@@ -91,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 364,
-    "timeDay": 172,
-    "timeWeek": 186,
-    "timeMonth": 214,
-    "timeYear": 364,
+    "time": 363,
+    "timeDay": 142,
+    "timeWeek": 177,
+    "timeMonth": 211,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2020-09-13": 18
     }
@@ -111,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 389,
-    "timeDay": 157,
-    "timeWeek": 202,
-    "timeMonth": 282,
-    "timeYear": 389,
+    "time": 388,
+    "timeDay": 164,
+    "timeWeek": 198,
+    "timeMonth": 279,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2020-11-23": 11,
       "2020-09-16": 6
@@ -132,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 333,
-    "timeDay": 460,
-    "timeWeek": 450,
-    "timeMonth": 449,
-    "timeYear": 333,
+    "time": 334,
+    "timeDay": 447,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2021-01-14": 40,
       "2020-12-29": 29,
@@ -154,11 +172,11 @@
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.68%",
-    "time": 661,
-    "timeDay": 358,
-    "timeWeek": 369,
-    "timeMonth": 590,
-    "timeYear": 661,
+    "time": 659,
+    "timeDay": 361,
+    "timeWeek": 368,
+    "timeMonth": 584,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2021-02-17": 69,
       "2021-01-28": 28,
@@ -179,11 +197,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 1088,
-    "timeWeek": 399,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 426,
+    "timeDay": 677,
+    "timeWeek": 382,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {}
   }
 ]
