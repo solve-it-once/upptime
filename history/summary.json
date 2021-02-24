@@ -85,19 +85,19 @@
     "url": "https://admissions.umich.edu",
     "icon": "https://favicons.githubusercontent.com/admissions.umich.edu",
     "slug": "admissions",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 345,
-    "timeDay": 345,
-    "timeWeek": 345,
-    "timeMonth": 345,
-    "timeYear": 345,
+    "status": "up",
+    "uptime": "88.81%",
+    "uptimeDay": "88.81%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "88.81%",
+    "time": 404,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2021-02-24": 0
+      "2021-02-24": 15
     }
   },
   {
