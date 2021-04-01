@@ -44,17 +44,17 @@
     "url": "https://shelbybrad.com",
     "icon": "https://favicons.githubusercontent.com/shelbybrad.com",
     "slug": "shelby-brad",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 2809,
-    "timeWeek": 862,
-    "timeMonth": 355,
-    "timeYear": 188,
+    "time": 187,
+    "timeDay": 1913,
+    "timeWeek": 780,
+    "timeMonth": 348,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2020-09-03": 6
     }
