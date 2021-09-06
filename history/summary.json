@@ -90,7 +90,7 @@
     "timeDay": 126,
     "timeWeek": 163,
     "timeMonth": 151,
-    "timeYear": 293,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2020-09-13": 18
     }
@@ -145,9 +145,9 @@
     "url": "https://www.eotechinc.com",
     "icon": "https://favicons.githubusercontent.com/www.eotechinc.com",
     "slug": "eo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.38%",
+    "uptimeDay": "99.37%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
@@ -157,6 +157,7 @@
     "timeMonth": 390,
     "timeYear": 518,
     "dailyMinutesDown": {
+      "2021-09-06": 0,
       "2021-09-05": 9,
       "2021-08-08": 6,
       "2021-07-17": 13,
