@@ -22,6 +22,8 @@ sites:
     url: https://www.nypl.org
   - name: "axehead"
     url: https://axeheadwatch.com
+  - name: "amulets"
+    url: https://www.eloisemagicalamulets.com
 assignees:
   - ao5357
 status-website:
