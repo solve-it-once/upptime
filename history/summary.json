@@ -142,19 +142,19 @@
     "url": "https://www.eotechinc.com",
     "icon": "https://favicons.githubusercontent.com/www.eotechinc.com",
     "slug": "eo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
-    "time": 502,
-    "timeDay": 231,
-    "timeWeek": 285,
-    "timeMonth": 409,
-    "timeYear": 502,
+    "time": 501,
+    "timeDay": 238,
+    "timeWeek": 282,
+    "timeMonth": 405,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2021-10-05": 0,
+      "2021-10-05": 7,
       "2021-09-06": 41,
       "2021-09-05": 9,
       "2021-08-08": 6,
@@ -221,7 +221,7 @@
     "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2021-10-05": 1132,
+      "2021-10-05": 1138,
       "2021-10-04": 125
     }
   }
