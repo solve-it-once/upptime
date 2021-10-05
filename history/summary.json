@@ -14,7 +14,7 @@
     "timeDay": 101,
     "timeWeek": 137,
     "timeMonth": 148,
-    "timeYear": 167,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 103,
     "timeWeek": 138,
     "timeMonth": 154,
-    "timeYear": 163,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 110,
     "timeWeek": 130,
     "timeMonth": 148,
-    "timeYear": 178,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2021-09-02": 22
     }
@@ -90,7 +90,7 @@
     "timeDay": 100,
     "timeWeek": 123,
     "timeMonth": 160,
-    "timeYear": 233,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -108,7 +108,7 @@
     "timeDay": 109,
     "timeWeek": 239,
     "timeMonth": 314,
-    "timeYear": 325,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2021-03-18": 23,
       "2020-11-23": 11
@@ -142,18 +142,19 @@
     "url": "https://www.eotechinc.com",
     "icon": "https://favicons.githubusercontent.com/www.eotechinc.com",
     "slug": "eo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 503,
-    "timeDay": 259,
-    "timeWeek": 299,
-    "timeMonth": 416,
-    "timeYear": 503,
+    "time": 502,
+    "timeDay": 231,
+    "timeWeek": 285,
+    "timeMonth": 409,
+    "timeYear": 502,
     "dailyMinutesDown": {
+      "2021-10-05": 0,
       "2021-09-06": 41,
       "2021-09-05": 9,
       "2021-08-08": 6,
@@ -209,18 +210,18 @@
     "icon": "https://favicons.githubusercontent.com/www.eloisemagicalamulets.com",
     "slug": "amulets",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 58,
     "timeDay": 58,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2021-10-05": 13,
+      "2021-10-05": 1132,
       "2021-10-04": 125
     }
   }
