@@ -40,18 +40,19 @@
     "url": "https://shelbybrad.com",
     "icon": "https://favicons.githubusercontent.com/shelbybrad.com",
     "slug": "shelby-brad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
+    "time": 178,
     "timeDay": 211,
     "timeWeek": 108,
     "timeMonth": 182,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2021-11-10": 0,
       "2021-09-02": 22
     }
   },
@@ -213,7 +214,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2021-11-10": 14,
+      "2021-11-10": 434,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
       "2021-11-07": 1440,
