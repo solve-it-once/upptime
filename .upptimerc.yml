@@ -24,6 +24,12 @@ sites:
     url: https://axeheadwatch.com
   - name: "amulets"
     url: https://www.eloisemagicalamulets.com
+  - name: "lifestylelink"
+    url: https://portal.lifestylelink.net
+  - name: "mdc"
+    url: https://www.michigandesign.com
+  - name: "painless"
+    url: https://painless-chiropractor.com
 assignees:
   - ao5357
 status-website:
