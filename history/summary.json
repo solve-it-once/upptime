@@ -213,7 +213,7 @@
     "timeMonth": 89,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2021-11-23": 16,
+      "2021-11-23": 312,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
       "2021-11-20": 1440,
@@ -307,17 +307,19 @@
     "url": "https://painless-chiropractor.com",
     "icon": "https://favicons.githubusercontent.com/painless-chiropractor.com",
     "slug": "painless",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 193,
     "timeDay": 193,
     "timeWeek": 193,
     "timeMonth": 193,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-23": 0
+    }
   }
 ]
