@@ -78,18 +78,20 @@
     "url": "https://www.zenput.com",
     "icon": "https://favicons.githubusercontent.com/www.zenput.com",
     "slug": "zenput",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
+    "time": 220,
     "timeDay": 134,
     "timeWeek": 174,
     "timeMonth": 163,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-07": 0
+    }
   },
   {
     "name": "bw",
@@ -212,7 +214,7 @@
     "timeMonth": 100,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2021-12-07": 15,
+      "2021-12-07": 1352,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
