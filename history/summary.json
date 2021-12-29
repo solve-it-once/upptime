@@ -210,7 +210,7 @@
     "timeMonth": 95,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2021-12-29": 180,
+      "2021-12-29": 198,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
       "2021-12-26": 1440,
@@ -376,19 +376,19 @@
     "url": "https://www.gtjfnmainspections.com",
     "icon": "https://favicons.githubusercontent.com/www.gtjfnmainspections.com",
     "slug": "gtj",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 4512,
-    "timeDay": 4512,
-    "timeWeek": 4512,
-    "timeMonth": 4512,
-    "timeYear": 4512,
+    "status": "up",
+    "uptime": "97.36%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.36%",
+    "time": 9375,
+    "timeDay": 9375,
+    "timeWeek": 9375,
+    "timeMonth": 9375,
+    "timeYear": 9375,
     "dailyMinutesDown": {
-      "2021-12-29": 0
+      "2021-12-29": 18
     }
   }
 ]
