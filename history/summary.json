@@ -210,7 +210,7 @@
     "timeMonth": 88,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2022-01-07": 1225,
+      "2022-01-07": 1237,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
       "2022-01-04": 1440,
@@ -313,19 +313,19 @@
     "url": "https://portal.lifestylelink.net",
     "icon": "https://favicons.githubusercontent.com/portal.lifestylelink.net",
     "slug": "lifestylelink",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 71,
-    "timeWeek": 90,
-    "timeMonth": 103,
-    "timeYear": 111,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 110,
+    "timeDay": 62,
+    "timeWeek": 85,
+    "timeMonth": 101,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2022-01-07": 1
+      "2022-01-07": 13
     }
   },
   {
@@ -333,19 +333,19 @@
     "url": "https://www.michigandesign.com",
     "icon": "https://favicons.githubusercontent.com/www.michigandesign.com",
     "slug": "mdc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 206,
-    "timeWeek": 192,
-    "timeMonth": 193,
-    "timeYear": 202,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 201,
+    "timeDay": 170,
+    "timeWeek": 185,
+    "timeMonth": 192,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2022-01-07": 1
+      "2022-01-07": 13
     }
   },
   {
