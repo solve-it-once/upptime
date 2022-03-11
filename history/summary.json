@@ -137,17 +137,16 @@
     "slug": "eo",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 457,
     "timeDay": 272,
     "timeWeek": 312,
     "timeMonth": 305,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2022-03-11": 7,
       "2021-11-29": 36,
       "2021-11-21": 103,
       "2021-09-06": 41
@@ -177,18 +176,18 @@
     "icon": "https://favicons.githubusercontent.com/axeheadwatch.com",
     "slug": "axehead",
     "status": "down",
-    "uptime": "90.13%",
+    "uptime": "90.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.96%",
-    "uptimeYear": "90.13%",
+    "uptimeMonth": "41.58%",
+    "uptimeYear": "90.07%",
     "time": 164,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 122,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-03-11": 877,
+      "2022-03-11": 1044,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -226,7 +225,7 @@
     "timeMonth": 98,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2022-03-11": 877,
+      "2022-03-11": 1044,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -464,10 +463,10 @@
     "url": "http://gmaronline.com",
     "icon": "https://favicons.githubusercontent.com/gmaronline.com",
     "slug": "gmar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
@@ -475,16 +474,18 @@
     "timeWeek": 217,
     "timeMonth": 218,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   },
   {
     "name": "gtj",
     "url": "https://www.gtjfnmainspections.com",
     "icon": "https://favicons.githubusercontent.com/www.gtjfnmainspections.com",
     "slug": "gtj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -494,6 +495,7 @@
     "timeMonth": 4674,
     "timeYear": 6051,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2021-12-29": 18
     }
   }
