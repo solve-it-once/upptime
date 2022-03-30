@@ -1,7 +1,7 @@
 url: https://www.nypl.org
-status: down
-code: 503
-responseTime: 15112
-lastUpdated: 2022-03-30T01:17:08.378Z
+status: up
+code: 200
+responseTime: 244
+lastUpdated: 2022-03-30T02:43:22.414Z
 startTime: Tue Feb 16 2021 13:59:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
