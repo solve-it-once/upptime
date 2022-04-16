@@ -120,18 +120,20 @@
     "url": "https://www.iqstrategix.com",
     "icon": "https://favicons.githubusercontent.com/www.iqstrategix.com",
     "slug": "iqstrategix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
+    "time": 482,
     "timeDay": 347,
     "timeWeek": 373,
     "timeMonth": 389,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-16": 0
+    }
   },
   {
     "name": "eo",
