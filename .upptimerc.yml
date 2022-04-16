@@ -15,19 +15,13 @@ sites:
   - name: "bw"
     url: https://www.bowerswilkins.com
   - name: "iqstrategix"
-    url: https://iqstrategix.com
+    url: https://www.iqstrategix.com
   - name: "eo"
     url: https://www.eotechinc.com
   - name: "nypl"
     url: https://www.nypl.org
-  - name: "axehead"
-    url: https://axeheadwatch.com
-  - name: "amulets"
-    url: https://www.eloisemagicalamulets.com
   - name: "lifestylelink"
     url: https://portal.lifestylelink.net
-  - name: "lldev"
-    url: http://dev-lifestylelink-d7.pantheonsite.io/sites/all/modules/provisio_custom/provisio_notifications/Processor/pv_process_notifications.php
   - name: "mdc"
     url: https://www.michigandesign.com
   - name: "painless"
@@ -36,6 +30,24 @@ sites:
     url: http://gmaronline.com
   - name: "gtj"
     url: https://www.gtjfnmainspections.com
+  - name: "alec"
+    url: https://alecinfo.org
+  - name: "beckwith"
+    url: https://beckwithfloors.com
+  - name: "ccsem"
+    url: https://ccsem.org
+  - name: "jmb"
+    url: https://jmbfinancial.com
+  - name: "shifrin"
+    url: https://shifrin-hayworth.com
+  - name: "tower"
+    url: https://www.tower-construct.com
+  - name: "pgc"
+    url: https://www.princegeorgescountymd.gov
+  - name: "justice"
+    url: https://www.justice.gov
+  - name: "deneau"
+    url: https://electdeneau.github.io
 assignees:
   - ao5357
 status-website:
