@@ -370,9 +370,9 @@
     "url": "https://www.tower-construct.com",
     "icon": "https://favicons.githubusercontent.com/www.tower-construct.com",
     "slug": "tower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -381,7 +381,9 @@
     "timeWeek": 181,
     "timeMonth": 181,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   },
   {
     "name": "pgc",
