@@ -201,10 +201,10 @@
     "url": "https://www.michigandesign.com",
     "icon": "https://favicons.githubusercontent.com/www.michigandesign.com",
     "slug": "mdc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
@@ -212,7 +212,9 @@
     "timeWeek": 196,
     "timeMonth": 205,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 2
+    }
   },
   {
     "name": "painless",
