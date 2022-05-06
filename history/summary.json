@@ -353,19 +353,19 @@
     "url": "https://shifrin-hayworth.com",
     "icon": "https://favicons.githubusercontent.com/shifrin-hayworth.com",
     "slug": "shifrin",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 356,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 350,
     "timeDay": 231,
-    "timeWeek": 302,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "timeWeek": 293,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-05-06": 18
+      "2022-05-06": 32
     }
   },
   {
