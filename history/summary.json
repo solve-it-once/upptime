@@ -237,10 +237,10 @@
     "url": "http://gmaronline.com",
     "icon": "https://favicons.githubusercontent.com/gmaronline.com",
     "slug": "gmar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
@@ -249,6 +249,7 @@
     "timeMonth": 222,
     "timeYear": 218,
     "dailyMinutesDown": {
+      "2022-05-06": 2,
       "2022-03-11": 19
     }
   },
@@ -352,9 +353,9 @@
     "url": "https://shifrin-hayworth.com",
     "icon": "https://favicons.githubusercontent.com/shifrin-hayworth.com",
     "slug": "shifrin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -363,7 +364,9 @@
     "timeWeek": 302,
     "timeMonth": 356,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "tower",
@@ -371,11 +374,11 @@
     "icon": "https://favicons.githubusercontent.com/www.tower-construct.com",
     "slug": "tower",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 276,
     "timeDay": 161,
     "timeWeek": 367,
