@@ -393,10 +393,10 @@
     "url": "https://www.princegeorgescountymd.gov",
     "icon": "https://favicons.githubusercontent.com/www.princegeorgescountymd.gov",
     "slug": "pgc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 743,
@@ -404,7 +404,9 @@
     "timeWeek": 759,
     "timeMonth": 738,
     "timeYear": 743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-22": 1
+    }
   },
   {
     "name": "justice",
