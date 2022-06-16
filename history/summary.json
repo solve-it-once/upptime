@@ -6,18 +6,16 @@
     "slug": "solve-it-once",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 116,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 148,
-    "dailyMinutesDown": {
-      "2022-06-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Brad Czerniak",
@@ -26,18 +24,16 @@
     "slug": "brad-czerniak",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 143,
     "timeWeek": 177,
     "timeMonth": 170,
     "timeYear": 149,
-    "dailyMinutesDown": {
-      "2022-06-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shelby Brad",
@@ -46,17 +42,16 @@
     "slug": "shelby-brad",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 143,
     "timeWeek": 174,
     "timeMonth": 167,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-06-15": 11,
       "2021-09-02": 22
     }
   },
@@ -67,18 +62,16 @@
     "slug": "lower-barriers",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 194,
     "timeWeek": 222,
     "timeMonth": 199,
     "timeYear": 204,
-    "dailyMinutesDown": {
-      "2022-06-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zenput",
@@ -87,18 +80,16 @@
     "slug": "zenput",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 131,
     "timeWeek": 163,
     "timeMonth": 150,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2022-06-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bw",
@@ -107,9 +98,9 @@
     "slug": "bw",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 318,
     "timeDay": 387,
@@ -117,7 +108,6 @@
     "timeMonth": 508,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-06-15": 11,
       "2022-04-13": 19,
       "2022-04-11": 22,
       "2022-03-29": 139,
@@ -131,10 +121,10 @@
     "icon": "https://favicons.githubusercontent.com/www.iqstrategix.com",
     "slug": "iqstrategix",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 459,
     "timeDay": 177,
@@ -142,7 +132,6 @@
     "timeMonth": 294,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-06-15": 11,
       "2022-04-17": 44,
       "2022-04-16": 58
     }
