@@ -24,19 +24,19 @@
     "url": "https://bradczerniak.com",
     "icon": "https://favicons.githubusercontent.com/bradczerniak.com",
     "slug": "brad-czerniak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 211,
-    "timeDay": 9159,
-    "timeWeek": 2597,
-    "timeMonth": 934,
-    "timeYear": 221,
+    "time": 242,
+    "timeDay": 10725,
+    "timeWeek": 3666,
+    "timeMonth": 1337,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-06-21": 43
+      "2022-06-21": 45
     }
   },
   {
@@ -44,10 +44,10 @@
     "url": "https://shelbybrad.com",
     "icon": "https://favicons.githubusercontent.com/shelbybrad.com",
     "slug": "shelby-brad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 175,
@@ -56,7 +56,7 @@
     "timeMonth": 161,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-21": 43,
+      "2022-06-21": 44,
       "2021-09-02": 22
     }
   },
@@ -65,10 +65,10 @@
     "url": "https://lowerbarriers.org",
     "icon": "https://favicons.githubusercontent.com/lowerbarriers.org",
     "slug": "lower-barriers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 203,
@@ -77,7 +77,7 @@
     "timeMonth": 196,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-06-21": 42
+      "2022-06-21": 43
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://www.zenput.com",
     "icon": "https://favicons.githubusercontent.com/www.zenput.com",
     "slug": "zenput",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.16%",
+    "uptimeDay": "97.11%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 158,
-    "timeDay": 202,
-    "timeWeek": 149,
-    "timeMonth": 149,
+    "time": 157,
+    "timeDay": 165,
+    "timeWeek": 143,
+    "timeMonth": 147,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 41
+      "2022-06-21": 42
     }
   },
   {
@@ -108,16 +108,16 @@
     "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.17%",
-    "uptimeMonth": "88.07%",
-    "uptimeYear": "98.95%",
+    "uptimeWeek": "48.07%",
+    "uptimeMonth": "88.05%",
+    "uptimeYear": "98.94%",
     "time": 319,
     "timeDay": 99,
     "timeWeek": 293,
     "timeMonth": 435,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-06-21": 446,
+      "2022-06-21": 457,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -134,9 +134,9 @@
     "url": "https://www.iqstrategix.com",
     "icon": "https://favicons.githubusercontent.com/www.iqstrategix.com",
     "slug": "iqstrategix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.19%",
+    "uptimeDay": "97.18%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
