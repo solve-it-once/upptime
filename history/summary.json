@@ -26,9 +26,9 @@
     "slug": "brad-czerniak",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 242,
     "timeDay": 8629,
@@ -36,7 +36,7 @@
     "timeMonth": 1307,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-06-21": 50
+      "2022-06-21": 43
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "shelby-brad",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 175,
     "timeDay": 160,
@@ -56,7 +56,7 @@
     "timeMonth": 163,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-21": 49,
+      "2022-06-21": 43,
       "2021-09-02": 22
     }
   },
@@ -67,9 +67,9 @@
     "slug": "lower-barriers",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 204,
     "timeDay": 258,
@@ -77,7 +77,7 @@
     "timeMonth": 198,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-06-21": 48
+      "2022-06-21": 42
     }
   },
   {
@@ -87,9 +87,9 @@
     "slug": "zenput",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 158,
     "timeDay": 226,
@@ -97,7 +97,7 @@
     "timeMonth": 155,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-06-21": 47
+      "2022-06-21": 41
     }
   },
   {
@@ -106,18 +106,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bowerswilkins.com",
     "slug": "bw",
     "status": "down",
-    "uptime": "99.41%",
+    "uptime": "99.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.01%",
-    "uptimeMonth": "88.04%",
-    "uptimeYear": "98.94%",
+    "uptimeWeek": "43.93%",
+    "uptimeMonth": "87.10%",
+    "uptimeYear": "98.87%",
     "time": 319,
     "timeDay": 99,
     "timeWeek": 293,
     "timeMonth": 435,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-06-21": 462,
+      "2022-06-21": 874,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -136,9 +136,9 @@
     "slug": "iqstrategix",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 457,
     "timeDay": 395,
@@ -146,7 +146,7 @@
     "timeMonth": 292,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2022-06-21": 45,
+      "2022-06-21": 40,
       "2022-04-17": 44,
       "2022-04-16": 58
     }
@@ -435,9 +435,9 @@
     "url": "https://www.justice.gov",
     "icon": "https://favicons.githubusercontent.com/www.justice.gov",
     "slug": "justice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -446,7 +446,9 @@
     "timeWeek": 201,
     "timeMonth": 192,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "deneau",
