@@ -124,7 +124,7 @@
     "uptime": "97.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.35%",
+    "uptimeMonth": "40.33%",
     "uptimeYear": "94.97%",
     "time": 313,
     "timeDay": 87,
@@ -132,7 +132,7 @@
     "timeMonth": 276,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-07-05": 1193,
+      "2022-07-05": 1200,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
@@ -253,9 +253,9 @@
     "slug": "mdc",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
     "time": 240,
     "timeDay": 1551,
@@ -263,7 +263,7 @@
     "timeMonth": 341,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2022-07-05": 47,
+      "2022-07-05": 40,
       "2022-06-30": 17,
       "2022-06-21": 25
     }
@@ -431,10 +431,10 @@
     "url": "https://www.tower-construct.com",
     "icon": "https://favicons.githubusercontent.com/www.tower-construct.com",
     "slug": "tower",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.88%",
     "time": 339,
@@ -443,6 +443,7 @@
     "timeMonth": 453,
     "timeYear": 339,
     "dailyMinutesDown": {
+      "2022-07-05": 1,
       "2022-06-21": 25,
       "2022-04-21": 113
     }
