@@ -12,42 +12,42 @@ sites:
     url: https://lowerbarriers.org
   - name: "Zenput"
     url: https://www.zenput.com
-  - name: "bw"
-    url: https://www.bowerswilkins.com
   - name: "iqstrategix"
     url: https://www.iqstrategix.com
-  - name: "eo"
-    url: https://www.eotechinc.com
-  - name: "nypl"
-    url: https://www.nypl.org
-  - name: "lifestylelink"
-    url: https://portal.lifestylelink.net
-  - name: "mdc"
-    url: https://www.michigandesign.com
-  - name: "painless"
-    url: https://painless-chiropractor.com
-  - name: "gmar"
-    url: http://gmaronline.com
-  - name: "gtj"
-    url: https://www.gtjfnmainspections.com
-  - name: "alec"
-    url: https://alecinfo.org
-  - name: "beckwith"
-    url: https://beckwithfloors.com
-  - name: "ccsem"
-    url: https://ccsem.org
-  - name: "jmb"
-    url: https://jmbfinancial.com
-  - name: "shifrin"
-    url: https://shifrin-hayworth.com
-  - name: "tower"
-    url: https://www.tower-construct.com
   - name: "pgc"
     url: https://www.princegeorgescountymd.gov
-  - name: "justice"
-    url: https://www.justice.gov
   - name: "deneau"
     url: https://electdeneau.github.io
+  #- name: "justice"
+  #  url: https://www.justice.gov
+  #- name: "lifestylelink"
+  #  url: https://portal.lifestylelink.net
+  #- name: "mdc"
+  #  url: https://www.michigandesign.com
+  #- name: "painless"
+  #  url: https://painless-chiropractor.com
+  #- name: "gmar"
+  #  url: http://gmaronline.com
+  #- name: "gtj"
+  #  url: https://www.gtjfnmainspections.com
+  #- name: "alec"
+  #  url: https://alecinfo.org
+  #- name: "beckwith"
+  #  url: https://beckwithfloors.com
+  #- name: "ccsem"
+  #  url: https://ccsem.org
+  #- name: "jmb"
+  #  url: https://jmbfinancial.com
+  #- name: "shifrin"
+  #  url: https://shifrin-hayworth.com
+  #- name: "tower"
+  #  url: https://www.tower-construct.com
+  #- name: "bw"
+  #  url: https://www.bowerswilkins.com
+  #- name: "eo"
+  #  url: https://www.eotechinc.com
+  #- name: "nypl"
+  #  url: https://www.nypl.org
 assignees:
   - ao5357
 status-website:
