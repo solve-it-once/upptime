@@ -145,19 +145,19 @@
     "url": "https://www.princegeorgescountymd.gov",
     "icon": "https://favicons.githubusercontent.com/www.princegeorgescountymd.gov",
     "slug": "pgc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 878,
-    "timeWeek": 760,
-    "timeMonth": 744,
-    "timeYear": 900,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
+    "time": 901,
+    "timeDay": 916,
+    "timeWeek": 784,
+    "timeMonth": 750,
+    "timeYear": 901,
     "dailyMinutesDown": {
-      "2022-08-07": 0
+      "2022-08-07": 43
     }
   },
   {
