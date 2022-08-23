@@ -183,19 +183,19 @@
     "url": "https://www.frostdrupal.com",
     "icon": "https://favicons.githubusercontent.com/www.frostdrupal.com",
     "slug": "frost",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 186,
-    "timeWeek": 378,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 398,
+    "timeDay": 230,
+    "timeWeek": 372,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2022-08-23": 0
+      "2022-08-23": 14
     }
   }
 ]
