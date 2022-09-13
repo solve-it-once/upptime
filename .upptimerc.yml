@@ -20,6 +20,8 @@ sites:
     url: https://electdeneau.github.io
   - name: "frost"
     url: https://www.frostdrupal.com
+  - name: "diamondchallenge"
+    url: https://diamondchallenge.org
   #- name: "justice"
   #  url: https://www.justice.gov
   #- name: "lifestylelink"
