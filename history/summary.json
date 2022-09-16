@@ -203,17 +203,19 @@
     "url": "https://diamondchallenge.org",
     "icon": "https://favicons.githubusercontent.com/diamondchallenge.org",
     "slug": "diamondchallenge",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1582,
     "timeDay": 1555,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-16": 0
+    }
   }
 ]
