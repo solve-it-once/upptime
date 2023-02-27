@@ -22,6 +22,18 @@ sites:
     url: https://www.frostdrupal.com
   - name: "diamondchallenge"
     url: https://diamondchallenge.org
+  - name: "Stemteachers"
+    url: https://stemteachers.asu.edu
+  - name: "WalkUHome"
+    url: https://walkuhome.com
+  - name: "MGoBlog"
+    url: https://mgoblog.com
+  - name: "ICI SFF"
+    url: https://www.securefinancialfuture.org
+  #- name: "human element"
+  #  url: https://www.human-element.com
+  #- name: "geotech"
+  #  url: https://www.geo-techsolutions.com
   #- name: "justice"
   #  url: https://www.justice.gov
   #- name: "lifestylelink"
@@ -46,12 +58,16 @@ sites:
   #  url: https://shifrin-hayworth.com
   #- name: "tower"
   #  url: https://www.tower-construct.com
+  #- name: "siena"
+  #  url: https://www.sienaheights.edu
   #- name: "bw"
   #  url: https://www.bowerswilkins.com
   #- name: "eo"
   #  url: https://www.eotechinc.com
   #- name: "nypl"
   #  url: https://www.nypl.org
+  #- name: "admissions umich"
+  #  url: https://admissions.umich.edu
 assignees:
   - ao5357
 status-website:
