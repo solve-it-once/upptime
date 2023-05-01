@@ -172,19 +172,19 @@
     "url": "https://electdeneau.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/electdeneau.github.io.ico",
     "slug": "deneau",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 37,
-    "timeWeek": 67,
-    "timeMonth": 75,
+    "timeDay": 58,
+    "timeWeek": 71,
+    "timeMonth": 76,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2023-05-01": 0
+      "2023-05-01": 7
     }
   },
   {
