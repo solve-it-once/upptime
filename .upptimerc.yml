@@ -30,6 +30,8 @@ sites:
     url: https://mgoblog.com
   - name: "ICI SFF"
     url: https://www.securefinancialfuture.org
+  - name: "World Challenge"
+    url: https://worldchallenge.org
   #- name: "human element"
   #  url: https://www.human-element.com
   #- name: "geotech"
