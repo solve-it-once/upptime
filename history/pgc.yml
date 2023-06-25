@@ -1,7 +1,7 @@
 url: https://www.princegeorgescountymd.gov
-status: up
-code: 200
-responseTime: 880
-lastUpdated: 2023-06-24T23:19:31.288Z
+status: down
+code: 502
+responseTime: 1644
+lastUpdated: 2023-06-25T05:08:44.134Z
 startTime: Sat Apr 16 2022 15:32:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
