@@ -12,8 +12,6 @@ sites:
     url: https://lowerbarriers.org
   - name: "Zenput"
     url: https://www.zenput.com
-  - name: "iqstrategix"
-    url: https://www.iqstrategix.com
   - name: "pgc"
     url: https://www.princegeorgescountymd.gov
   - name: "deneau"
@@ -32,6 +30,8 @@ sites:
     url: https://www.securefinancialfuture.org
   - name: "World Challenge"
     url: https://worldchallenge.org
+  #- name: "iqstrategix"
+  #  url: https://www.iqstrategix.com
   #- name: "human element"
   #  url: https://www.human-element.com
   #- name: "geotech"
