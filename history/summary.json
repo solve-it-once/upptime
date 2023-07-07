@@ -94,9 +94,9 @@
     "url": "https://www.iqstrategix.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.iqstrategix.com.ico",
     "slug": "iqstrategix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,6 +106,7 @@
     "timeMonth": 198,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2022-08-25": 19
     }
   },
