@@ -142,19 +142,19 @@
     "url": "https://www.frostdrupal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.frostdrupal.com.ico",
     "slug": "frost",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 334,
-    "timeWeek": 352,
-    "timeMonth": 309,
-    "timeYear": 276,
+    "time": 281,
+    "timeDay": 403,
+    "timeWeek": 367,
+    "timeMonth": 314,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2023-08-24": 2
+      "2023-08-24": 5
     }
   },
   {
@@ -263,19 +263,19 @@
     "url": "https://worldchallenge.org",
     "icon": "https://icons.duckduckgo.com/ip3/worldchallenge.org.ico",
     "slug": "world-challenge",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 573,
-    "timeDay": 410,
-    "timeWeek": 642,
-    "timeMonth": 637,
-    "timeYear": 573,
+    "time": 577,
+    "timeDay": 679,
+    "timeWeek": 680,
+    "timeMonth": 647,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2023-08-24": 1
+      "2023-08-24": 4
     }
   }
 ]
