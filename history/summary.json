@@ -22,19 +22,19 @@
     "url": "https://bradczerniak.com",
     "icon": "https://icons.duckduckgo.com/ip3/bradczerniak.com.ico",
     "slug": "brad-czerniak",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 239,
-    "timeWeek": 190,
-    "timeMonth": 173,
+    "time": 252,
+    "timeDay": 232,
+    "timeWeek": 194,
+    "timeMonth": 175,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-09-16": 1
+      "2023-09-16": 6
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://lowerbarriers.org",
     "icon": "https://icons.duckduckgo.com/ip3/lowerbarriers.org.ico",
     "slug": "lower-barriers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 342,
-    "timeWeek": 246,
-    "timeMonth": 239,
+    "timeDay": 289,
+    "timeWeek": 245,
+    "timeMonth": 238,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-09-16": 0
+      "2023-09-16": 6
     }
   },
   {
