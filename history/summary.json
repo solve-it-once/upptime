@@ -24,18 +24,16 @@
     "slug": "brad-czerniak",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 232,
     "timeWeek": 194,
     "timeMonth": 175,
     "timeYear": 164,
-    "dailyMinutesDown": {
-      "2023-09-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shelby Brad",
@@ -62,18 +60,16 @@
     "slug": "lower-barriers",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 289,
     "timeWeek": 245,
     "timeMonth": 238,
     "timeYear": 220,
-    "dailyMinutesDown": {
-      "2023-09-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zenput",
