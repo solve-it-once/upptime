@@ -30,6 +30,8 @@ sites:
     url: https://www.securefinancialfuture.org
   - name: "World Challenge"
     url: https://worldchallenge.org
+  - name: "rf IDEAS"
+    url: https://www.rfideas.coms
   #- name: "iqstrategix"
   #  url: https://www.iqstrategix.com
   #- name: "human element"
