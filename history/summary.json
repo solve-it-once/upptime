@@ -142,9 +142,9 @@
     "url": "https://www.frostdrupal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.frostdrupal.com.ico",
     "slug": "frost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +153,9 @@
     "timeWeek": 306,
     "timeMonth": 327,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-02": 0
+    }
   },
   {
     "name": "diamondchallenge",
@@ -283,11 +285,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rfideas.coms.ico",
     "slug": "rf-ideas",
     "status": "down",
-    "uptime": "78.29%",
+    "uptime": "79.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.29%",
-    "uptimeMonth": "78.29%",
-    "uptimeYear": "78.29%",
+    "uptimeWeek": "79.15%",
+    "uptimeMonth": "79.15%",
+    "uptimeYear": "79.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
