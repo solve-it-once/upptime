@@ -142,11 +142,11 @@
     "url": "https://www.frostdrupal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.frostdrupal.com.ico",
     "slug": "frost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
     "timeDay": 10030,
@@ -154,7 +154,7 @@
     "timeMonth": 1189,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2023-10-02": 11
+      "2023-10-02": 0
     }
   },
   {
@@ -285,11 +285,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rfideas.coms.ico",
     "slug": "rf-ideas",
     "status": "down",
-    "uptime": "79.93%",
+    "uptime": "79.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.93%",
-    "uptimeMonth": "79.93%",
-    "uptimeYear": "79.93%",
+    "uptimeWeek": "79.98%",
+    "uptimeMonth": "79.98%",
+    "uptimeYear": "79.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
