@@ -287,11 +287,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rfideas.coms.ico",
     "slug": "rf-ideas",
     "status": "down",
-    "uptime": "95.72%",
+    "uptime": "95.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "95.72%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "95.87%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -307,9 +307,9 @@
     "url": "https://www.firstdentalhealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.firstdentalhealth.com.ico",
     "slug": "fdh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -318,6 +318,8 @@
     "timeWeek": 136,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-20": 0
+    }
   }
 ]
