@@ -307,19 +307,19 @@
     "url": "https://www.firstdentalhealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.firstdentalhealth.com.ico",
     "slug": "fdh",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 131,
-    "timeDay": 143,
-    "timeWeek": 134,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 134,
+    "timeDay": 160,
+    "timeWeek": 142,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-10-20": 41
+      "2023-10-20": 47
     }
   }
 ]
