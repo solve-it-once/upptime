@@ -18,8 +18,6 @@ sites:
     url: https://electdeneau.github.io
   - name: "frost"
     url: https://www.frostdrupal.com
-  - name: "diamondchallenge"
-    url: https://diamondchallenge.org
   - name: "Stemteachers"
     url: https://stemteachers.asu.edu
   - name: "WalkUHome"
@@ -34,6 +32,8 @@ sites:
     url: https://www.rfideas.coms
   - name: "FDH"
     url: https://www.firstdentalhealth.com
+  #- name: "diamondchallenge"
+  #  url: https://diamondchallenge.org
   #- name: "iqstrategix"
   #  url: https://www.iqstrategix.com
   #- name: "human element"
