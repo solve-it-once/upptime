@@ -164,11 +164,11 @@
     "url": "https://diamondchallenge.org",
     "icon": "https://icons.duckduckgo.com/ip3/diamondchallenge.org.ico",
     "slug": "diamondchallenge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "24.65%",
-    "uptimeWeek": "89.24%",
-    "uptimeMonth": "97.46%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "99.79%",
     "time": 1505,
     "timeDay": 19354,
@@ -176,7 +176,7 @@
     "timeMonth": 2395,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2023-10-22": 502,
+      "2023-10-22": 496,
       "2023-10-21": 583,
       "2023-10-03": 27
     }
