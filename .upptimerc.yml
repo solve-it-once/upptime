@@ -32,6 +32,22 @@ sites:
     url: https://www.rfideas.coms
   - name: "FDH"
     url: https://www.firstdentalhealth.com
+  - name: "fibercore"
+    url: https://fibercore.humaneticsgroup.com
+  - name: "optek"
+    url: https://optek.humaneticsgroup.com
+  - name: "hitec"
+    url: https://hitec.humaneticsgroup.com
+  - name: "humanetics"
+    url: https://www.humaneticsgroup.com
+  - name: "sparrow"
+    url: https://www.sparrow.org
+  - name: "NDC"
+    url: https://www.newdentalchoice.com
+  - name: "EDS"
+    url: https://www.employersdental.com
+  - name: "DDS"
+    url: https://www.diversifieddental.com
   #- name: "diamondchallenge"
   #  url: https://diamondchallenge.org
   #- name: "iqstrategix"
