@@ -48,6 +48,8 @@ sites:
     url: https://www.employersdental.com
   - name: "DDS"
     url: https://www.diversifieddental.com
+  - name: "LSI"
+    url: https://www.lightingservicesinc.com
   #- name: "diamondchallenge"
   #  url: https://diamondchallenge.org
   #- name: "iqstrategix"
