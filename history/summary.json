@@ -227,19 +227,19 @@
     "url": "https://www.securefinancialfuture.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.securefinancialfuture.org.ico",
     "slug": "ici-sff",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 1889,
-    "timeWeek": 817,
-    "timeMonth": 478,
-    "timeYear": 442,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 456,
+    "timeDay": 2936,
+    "timeWeek": 1286,
+    "timeMonth": 612,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2024-01-02": 17
+      "2024-01-02": 29
     }
   },
   {
@@ -465,7 +465,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-01-02": 166,
+      "2024-01-02": 178,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
