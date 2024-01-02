@@ -227,9 +227,9 @@
     "url": "https://www.securefinancialfuture.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.securefinancialfuture.org.ico",
     "slug": "ici-sff",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -238,7 +238,9 @@
     "timeWeek": 461,
     "timeMonth": 390,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-02": 0
+    }
   },
   {
     "name": "World Challenge",
@@ -463,7 +465,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-01-02": 26,
+      "2024-01-02": 140,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
