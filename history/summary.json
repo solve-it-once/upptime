@@ -331,18 +331,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/optek.humaneticsgroup.com.ico",
     "slug": "optek",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.85%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.85%",
     "time": 241,
     "timeDay": 265,
     "timeWeek": 249,
     "timeMonth": 249,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-01-11": 21
+      "2024-01-11": 99
     }
   },
   {
@@ -350,19 +350,19 @@
     "url": "https://hitec.humaneticsgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/hitec.humaneticsgroup.com.ico",
     "slug": "hitec",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 212,
-    "timeDay": 239,
-    "timeWeek": 235,
-    "timeMonth": 225,
-    "timeYear": 212,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "93.21%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.85%",
+    "time": 797,
+    "timeDay": 9978,
+    "timeWeek": 3482,
+    "timeMonth": 1084,
+    "timeYear": 797,
     "dailyMinutesDown": {
-      "2024-01-11": 21
+      "2024-01-11": 98
     }
   },
   {
@@ -371,18 +371,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.humaneticsgroup.com.ico",
     "slug": "humanetics",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.86%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.86%",
     "time": 232,
     "timeDay": 273,
     "timeWeek": 264,
     "timeMonth": 250,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-01-11": 14
+      "2024-01-11": 92
     }
   },
   {
@@ -474,7 +474,7 @@
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-01-11": 1179,
+      "2024-01-11": 1257,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
