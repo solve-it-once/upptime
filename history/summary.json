@@ -330,19 +330,19 @@
     "url": "https://optek.humaneticsgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/optek.humaneticsgroup.com.ico",
     "slug": "optek",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "91.17%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.81%",
-    "time": 241,
-    "timeDay": 265,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 241,
+    "time": 251,
+    "timeDay": 417,
+    "timeWeek": 301,
+    "timeMonth": 263,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-01-11": 122
+      "2024-01-11": 127
     }
   },
   {
@@ -474,7 +474,7 @@
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-01-11": 1281,
+      "2024-01-11": 1286,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
