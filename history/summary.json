@@ -311,18 +311,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fibercore.humaneticsgroup.com.ico",
     "slug": "fibercore",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 259,
     "timeDay": 428,
     "timeWeek": 282,
     "timeMonth": 267,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-01-11": 7
+      "2024-01-11": 13
     }
   },
   {
@@ -331,18 +331,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/optek.humaneticsgroup.com.ico",
     "slug": "optek",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 241,
     "timeDay": 265,
     "timeWeek": 249,
     "timeMonth": 249,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-01-11": 0
+      "2024-01-11": 7
     }
   },
   {
@@ -351,18 +351,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hitec.humaneticsgroup.com.ico",
     "slug": "hitec",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 212,
     "timeDay": 239,
     "timeWeek": 235,
     "timeMonth": 225,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-01-11": 0
+      "2024-01-11": 7
     }
   },
   {
@@ -370,18 +370,20 @@
     "url": "https://www.humaneticsgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.humaneticsgroup.com.ico",
     "slug": "humanetics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 85,
-    "timeWeek": 235,
-    "timeMonth": 244,
-    "timeYear": 227,
-    "dailyMinutesDown": {}
+    "time": 232,
+    "timeDay": 273,
+    "timeWeek": 264,
+    "timeMonth": 250,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2024-01-11": 0
+    }
   },
   {
     "name": "sparrow",
@@ -472,7 +474,7 @@
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-01-11": 1159,
+      "2024-01-11": 1166,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
