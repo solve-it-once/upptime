@@ -269,9 +269,9 @@
     "url": "https://www.rfideas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rfideas.com.ico",
     "slug": "rf-ideas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
@@ -281,6 +281,7 @@
     "timeMonth": 354,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2024-01-24": 0,
       "2023-09-28": 795,
       "2023-09-27": 589
     }
@@ -474,7 +475,7 @@
     "timeMonth": 93,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-01-24": 28,
+      "2024-01-24": 1323,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
