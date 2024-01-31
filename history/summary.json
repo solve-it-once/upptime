@@ -141,9 +141,9 @@
     "slug": "frost",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 342,
     "timeDay": 462,
@@ -151,7 +151,6 @@
     "timeMonth": 328,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-01-31": 5,
       "2023-10-02": 34
     }
   },
@@ -445,18 +444,20 @@
     "url": "https://www.diversifieddental.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.diversifieddental.com.ico",
     "slug": "dds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 281,
-    "timeWeek": 268,
-    "timeMonth": 258,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "time": 598,
+    "timeDay": 11969,
+    "timeWeek": 3192,
+    "timeMonth": 989,
+    "timeYear": 598,
+    "dailyMinutesDown": {
+      "2024-01-31": 1
+    }
   },
   {
     "name": "LSI",
@@ -475,7 +476,7 @@
     "timeMonth": 95,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-01-31": 449,
+      "2024-01-31": 533,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
