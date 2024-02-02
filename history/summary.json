@@ -58,19 +58,19 @@
     "url": "https://lowerbarriers.org",
     "icon": "https://icons.duckduckgo.com/ip3/lowerbarriers.org.ico",
     "slug": "lower-barriers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 1318,
-    "timeWeek": 495,
-    "timeMonth": 302,
+    "timeDay": 946,
+    "timeWeek": 463,
+    "timeMonth": 299,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 14
     }
   },
   {
@@ -476,7 +476,7 @@
     "timeMonth": 93,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-02-02": 1200,
+      "2024-02-02": 1214,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
