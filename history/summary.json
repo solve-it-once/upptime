@@ -425,19 +425,19 @@
     "url": "https://www.employersdental.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.employersdental.com.ico",
     "slug": "eds",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 269,
-    "timeDay": 208,
-    "timeWeek": 269,
+    "timeDay": 234,
+    "timeWeek": 271,
     "timeMonth": 287,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-02-06": 0
+      "2024-02-06": 19
     }
   },
   {
@@ -475,7 +475,7 @@
     "timeMonth": 92,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-02-06": 360,
+      "2024-02-06": 379,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
