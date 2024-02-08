@@ -445,18 +445,20 @@
     "url": "https://www.diversifieddental.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.diversifieddental.com.ico",
     "slug": "dds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 305,
-    "timeWeek": 278,
-    "timeMonth": 1696,
-    "timeYear": 890,
-    "dailyMinutesDown": {}
+    "time": 997,
+    "timeDay": 4952,
+    "timeWeek": 1444,
+    "timeMonth": 1916,
+    "timeYear": 997,
+    "dailyMinutesDown": {
+      "2024-02-08": 1
+    }
   },
   {
     "name": "LSI",
@@ -475,7 +477,7 @@
     "timeMonth": 93,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-02-08": 25,
+      "2024-02-08": 233,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
