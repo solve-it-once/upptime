@@ -156,10 +156,10 @@
     "url": "https://stemteachers.asu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/stemteachers.asu.edu.ico",
     "slug": "stemteachers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 778,
@@ -168,6 +168,7 @@
     "timeMonth": 906,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2023-10-29": 20,
       "2023-09-14": 104
     }
