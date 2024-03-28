@@ -252,7 +252,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 606,
-    "timeDay": 704,
+    "timeDay": 854,
     "timeWeek": 607,
     "timeMonth": 616,
     "timeYear": 606,
@@ -328,10 +328,10 @@
     "url": "https://optek.humaneticsgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/optek.humaneticsgroup.com.ico",
     "slug": "optek",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 576,
@@ -340,6 +340,7 @@
     "timeMonth": 733,
     "timeYear": 576,
     "dailyMinutesDown": {
+      "2024-03-28": 1,
       "2024-01-11": 127
     }
   },
