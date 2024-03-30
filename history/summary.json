@@ -266,9 +266,9 @@
     "url": "https://www.rfideas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rfideas.com.ico",
     "slug": "rf-ideas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "96.88%",
+    "uptimeDay": "96.84%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.44%",
@@ -278,7 +278,7 @@
     "timeMonth": 313,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-03-30": 18,
+      "2024-03-30": 19,
       "2024-03-29": 64,
       "2024-03-10": 15,
       "2023-09-28": 795,
@@ -310,9 +310,9 @@
     "url": "https://fibercore.humaneticsgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/fibercore.humaneticsgroup.com.ico",
     "slug": "fibercore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "96.88%",
+    "uptimeDay": "96.84%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
@@ -322,7 +322,7 @@
     "timeMonth": 752,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-03-30": 18,
+      "2024-03-30": 19,
       "2024-03-29": 64,
       "2024-01-11": 27
     }
