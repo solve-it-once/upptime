@@ -125,7 +125,7 @@
     "time": 90,
     "timeDay": 48,
     "timeWeek": 65,
-    "timeMonth": 83,
+    "timeMonth": 81,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -145,7 +145,7 @@
     "time": 351,
     "timeDay": 263,
     "timeWeek": 272,
-    "timeMonth": 394,
+    "timeMonth": 385,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2023-10-02": 34
@@ -165,7 +165,7 @@
     "time": 779,
     "timeDay": 747,
     "timeWeek": 763,
-    "timeMonth": 804,
+    "timeMonth": 801,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2023-10-29": 20,
@@ -186,7 +186,7 @@
     "time": 478,
     "timeDay": 159,
     "timeWeek": 807,
-    "timeMonth": 383,
+    "timeMonth": 378,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2023-09-14": 104,
@@ -233,7 +233,7 @@
     "time": 449,
     "timeDay": 334,
     "timeWeek": 387,
-    "timeMonth": 396,
+    "timeMonth": 388,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2024-01-04": 18,
@@ -254,7 +254,7 @@
     "time": 606,
     "timeDay": 393,
     "timeWeek": 613,
-    "timeMonth": 626,
+    "timeMonth": 620,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2023-11-04": 52,
@@ -266,19 +266,19 @@
     "url": "https://www.rfideas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rfideas.com.ico",
     "slug": "rf-ideas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.44%",
-    "time": 339,
-    "timeDay": 301,
-    "timeWeek": 319,
+    "time": 340,
+    "timeDay": 309,
+    "timeWeek": 323,
     "timeMonth": 317,
-    "timeYear": 339,
+    "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-03-30": 37,
+      "2024-03-30": 43,
       "2024-03-29": 64,
       "2024-03-10": 15,
       "2023-09-28": 795,
@@ -299,7 +299,7 @@
     "time": 107,
     "timeDay": 37,
     "timeWeek": 67,
-    "timeMonth": 88,
+    "timeMonth": 87,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2023-10-20": 40
@@ -310,19 +310,19 @@
     "url": "https://fibercore.humaneticsgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/fibercore.humaneticsgroup.com.ico",
     "slug": "fibercore",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.93%",
-    "time": 640,
-    "timeDay": 773,
-    "timeWeek": 769,
-    "timeMonth": 762,
-    "timeYear": 640,
+    "time": 642,
+    "timeDay": 778,
+    "timeWeek": 771,
+    "timeMonth": 761,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-03-30": 37,
+      "2024-03-30": 43,
       "2024-03-29": 64,
       "2024-01-11": 27
     }
@@ -341,7 +341,7 @@
     "time": 579,
     "timeDay": 629,
     "timeWeek": 699,
-    "timeMonth": 734,
+    "timeMonth": 730,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2024-01-11": 127
@@ -361,7 +361,7 @@
     "time": 848,
     "timeDay": 747,
     "timeWeek": 701,
-    "timeMonth": 727,
+    "timeMonth": 724,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2024-01-11": 98
@@ -381,7 +381,7 @@
     "time": 768,
     "timeDay": 785,
     "timeWeek": 810,
-    "timeMonth": 836,
+    "timeMonth": 834,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2024-01-11": 115
@@ -401,7 +401,7 @@
     "time": 273,
     "timeDay": 52,
     "timeWeek": 231,
-    "timeMonth": 229,
+    "timeMonth": 223,
     "timeYear": 273,
     "dailyMinutesDown": {}
   },
@@ -419,7 +419,7 @@
     "time": 119,
     "timeDay": 101,
     "timeWeek": 101,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -457,7 +457,7 @@
     "time": 819,
     "timeDay": 243,
     "timeWeek": 209,
-    "timeMonth": 253,
+    "timeMonth": 254,
     "timeYear": 819,
     "dailyMinutesDown": {}
   },
