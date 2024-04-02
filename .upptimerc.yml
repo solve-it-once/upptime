@@ -12,24 +12,12 @@ sites:
     url: https://lowerbarriers.org
   - name: "Zenput"
     url: https://www.zenput.com
-  - name: "pgc"
-    url: https://www.princegeorgescountymd.gov
-  - name: "deneau"
-    url: https://electdeneau.github.io
   - name: "frost"
     url: https://www.frostdrupal.com
-  - name: "Stemteachers"
-    url: https://stemteachers.asu.edu
-  - name: "WalkUHome"
-    url: https://walkuhome.com
   - name: "MGoBlog"
     url: https://mgoblog.com
-  - name: "ICI SFF"
-    url: https://www.securefinancialfuture.org
   - name: "World Challenge"
     url: https://worldchallenge.org
-  - name: "rf IDEAS"
-    url: https://www.rfideas.com
   - name: "FDH"
     url: https://www.firstdentalhealth.com
   - name: "fibercore"
@@ -50,6 +38,18 @@ sites:
     url: https://www.diversifieddental.com
   - name: "EqRes"
     url: https://equinoxresidential.com
+  #- name: "rf IDEAS"
+  #  url: https://www.rfideas.com
+  #- name: "ICI SFF"
+  #  url: https://www.securefinancialfuture.org
+  #- name: "WalkUHome"
+  #  url: https://walkuhome.com
+  #- name: "Stemteachers"
+  #  url: https://stemteachers.asu.edu
+  #- name: "pgc"
+  #  url: https://www.princegeorgescountymd.gov
+  #- name: "deneau"
+  #  url: https://electdeneau.github.io
   #- name: "diamondchallenge"
   #  url: https://diamondchallenge.org
   #- name: "iqstrategix"
