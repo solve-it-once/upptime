@@ -137,9 +137,9 @@
     "url": "https://worldchallenge.org",
     "icon": "https://icons.duckduckgo.com/ip3/worldchallenge.org.ico",
     "slug": "world-challenge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -149,6 +149,7 @@
     "timeMonth": 623,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2024-04-02": 0,
       "2023-11-04": 52,
       "2023-10-31": 18
     }
@@ -185,7 +186,7 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.84%",
     "time": 688,
-    "timeDay": 769,
+    "timeDay": 777,
     "timeWeek": 819,
     "timeMonth": 805,
     "timeYear": 688,
