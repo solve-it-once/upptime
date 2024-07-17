@@ -204,10 +204,10 @@
     "url": "https://optek.humaneticsgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/optek.humaneticsgroup.com.ico",
     "slug": "optek",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 658,
@@ -216,6 +216,7 @@
     "timeMonth": 783,
     "timeYear": 658,
     "dailyMinutesDown": {
+      "2024-07-17": 2,
       "2024-01-11": 127
     }
   },
@@ -224,10 +225,10 @@
     "url": "https://hitec.humaneticsgroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/hitec.humaneticsgroup.com.ico",
     "slug": "hitec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 803,
@@ -236,6 +237,7 @@
     "timeMonth": 783,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2024-07-17": 1,
       "2024-01-11": 98
     }
   },
