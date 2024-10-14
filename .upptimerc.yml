@@ -28,6 +28,10 @@ sites:
     url: https://equinoxresidential.com
   - name: "Principal"
     url: https://www.principal.com
+  - name: "Elevate"
+    url: https://www.elevatebyprincipal.com
+  - name: "Foundation"
+    url: https://principalfoundation.org
   #- name: "fibercore"
   #  url: https://fibercore.humaneticsgroup.com
   #- name: "optek"
