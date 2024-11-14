@@ -13,7 +13,7 @@
     "time": 238,
     "timeDay": 168,
     "timeWeek": 282,
-    "timeMonth": 265,
+    "timeMonth": 270,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 179,
     "timeDay": 117,
     "timeWeek": 215,
-    "timeMonth": 203,
+    "timeMonth": 205,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 175,
     "timeDay": 76,
     "timeWeek": 216,
-    "timeMonth": 206,
+    "timeMonth": 209,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 256,
     "timeDay": 192,
     "timeWeek": 314,
-    "timeMonth": 304,
+    "timeMonth": 306,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -112,19 +112,19 @@
     "url": "https://mgoblog.com",
     "icon": "https://icons.duckduckgo.com/ip3/mgoblog.com.ico",
     "slug": "m-go-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.84%",
     "time": 254,
     "timeDay": 242,
     "timeWeek": 274,
-    "timeMonth": 265,
+    "timeMonth": 266,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-11-14": 38,
+      "2024-11-14": 25,
       "2024-11-12": 20,
       "2024-09-29": 15,
       "2024-09-13": 43,
@@ -152,7 +152,7 @@
     "time": 112,
     "timeDay": 90,
     "timeWeek": 134,
-    "timeMonth": 138,
+    "timeMonth": 137,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -188,7 +188,7 @@
     "time": 230,
     "timeDay": 86,
     "timeWeek": 143,
-    "timeMonth": 145,
+    "timeMonth": 148,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2024-08-01": 120,
@@ -227,7 +227,7 @@
     "time": 150,
     "timeDay": 144,
     "timeWeek": 165,
-    "timeMonth": 154,
+    "timeMonth": 156,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -245,7 +245,7 @@
     "time": 111,
     "timeDay": 58,
     "timeWeek": 104,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -263,7 +263,7 @@
     "time": 365,
     "timeDay": 461,
     "timeWeek": 825,
-    "timeMonth": 365,
+    "timeMonth": 364,
     "timeYear": 365,
     "dailyMinutesDown": {}
   },
@@ -281,7 +281,7 @@
     "time": 261,
     "timeDay": 288,
     "timeWeek": 282,
-    "timeMonth": 261,
+    "timeMonth": 256,
     "timeYear": 261,
     "dailyMinutesDown": {}
   }
