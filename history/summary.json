@@ -250,18 +250,20 @@
     "url": "https://www.elevatebyprincipal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.elevatebyprincipal.com.ico",
     "slug": "elevate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 1496,
-    "timeWeek": 1355,
-    "timeMonth": 1393,
-    "timeYear": 558,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 874,
+    "timeWeek": 1217,
+    "timeMonth": 1357,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2025-02-25": 1
+    }
   },
   {
     "name": "Foundation",
