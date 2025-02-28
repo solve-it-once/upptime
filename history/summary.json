@@ -76,18 +76,20 @@
     "url": "https://www.zenput.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zenput.com.ico",
     "slug": "zenput",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 136,
-    "timeWeek": 164,
-    "timeMonth": 198,
+    "timeDay": 103,
+    "timeWeek": 152,
+    "timeMonth": 194,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "frost",
