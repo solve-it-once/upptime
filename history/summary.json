@@ -76,18 +76,19 @@
     "url": "https://www.zenput.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zenput.com.ico",
     "slug": "zenput",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 185,
-    "timeDay": 145,
+    "timeDay": 146,
     "timeWeek": 151,
     "timeMonth": 149,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2025-06-04": 0,
       "2025-02-28": 145
     }
   },
