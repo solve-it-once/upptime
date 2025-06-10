@@ -76,11 +76,11 @@
     "url": "https://www.zenput.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zenput.com.ico",
     "slug": "zenput",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "87.53%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.93%",
     "time": 184,
     "timeDay": 149,
@@ -88,7 +88,7 @@
     "timeMonth": 152,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-06-10": 179,
+      "2025-06-10": 172,
       "2025-06-04": 42,
       "2025-02-28": 145
     }
@@ -118,7 +118,7 @@
     "slug": "m-go-blog",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "50.45%",
+    "uptimeDay": "54.02%",
     "uptimeWeek": "39.03%",
     "uptimeMonth": "85.97%",
     "uptimeYear": "98.75%",
