@@ -120,12 +120,12 @@
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "98.75%",
     "time": 492,
     "timeDay": 345,
     "timeWeek": 308,
-    "timeMonth": 833,
+    "timeMonth": 866,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-08-03": 28,
@@ -284,9 +284,9 @@
     "url": "https://principalfoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/principalfoundation.org.ico",
     "slug": "foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -295,6 +295,8 @@
     "timeWeek": 432,
     "timeMonth": 438,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 0
+    }
   }
 ]
