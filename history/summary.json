@@ -284,19 +284,19 @@
     "url": "https://principalfoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/principalfoundation.org.ico",
     "slug": "foundation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 394,
-    "timeWeek": 432,
+    "timeDay": 419,
+    "timeWeek": 434,
     "timeMonth": 438,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 6
     }
   }
 ]
