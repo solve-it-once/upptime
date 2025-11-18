@@ -1,7 +1,7 @@
 url: https://lowerbarriers.org
-status: up
-code: 200
-responseTime: 162
-lastUpdated: 2025-11-18T12:36:37.127Z
+status: down
+code: 500
+responseTime: 217
+lastUpdated: 2025-11-18T13:17:09.423Z
 startTime: 2020-09-01T13:34:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
