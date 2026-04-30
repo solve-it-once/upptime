@@ -24,10 +24,10 @@
     "url": "https://bradczerniak.com",
     "icon": "https://icons.duckduckgo.com/ip3/bradczerniak.com.ico",
     "slug": "brad-czerniak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 276,
@@ -36,6 +36,7 @@
     "timeMonth": 265,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2026-04-30": 2,
       "2026-04-13": 47,
       "2025-11-18": 144
     }
@@ -110,9 +111,9 @@
     "url": "https://www.frostdrupal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.frostdrupal.com.ico",
     "slug": "frost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -122,6 +123,7 @@
     "timeMonth": 530,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-01-28": 22,
       "2025-11-18": 196
     }
@@ -132,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgoblog.com.ico",
     "slug": "m-go-blog",
     "status": "down",
-    "uptime": "78.19%",
+    "uptime": "78.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.03%",
+    "uptimeYear": "30.87%",
     "time": 476,
     "timeDay": 55,
     "timeWeek": 115,
     "timeMonth": 122,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2026-04-30": 86,
+      "2026-04-30": 932,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
