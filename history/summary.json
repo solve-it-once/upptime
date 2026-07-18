@@ -131,16 +131,16 @@
     "url": "https://mgoblog.com",
     "icon": "https://icons.duckduckgo.com/ip3/mgoblog.com.ico",
     "slug": "m-go-blog",
-    "status": "up",
-    "uptime": "79.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "79.43%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "31.64%",
     "time": 272,
-    "timeDay": 63,
-    "timeWeek": 124,
-    "timeMonth": 176,
+    "timeDay": 84,
+    "timeWeek": 122,
+    "timeMonth": 173,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-07-19": 43,
@@ -397,7 +397,8 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-02": 1440,
+      "2026-07-18": 0
     }
   },
   {
@@ -442,7 +443,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.employersdental.com.ico",
     "slug": "eds",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
