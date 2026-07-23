@@ -87,22 +87,22 @@
     "url": "https://www.zenput.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zenput.com.ico",
     "slug": "zenput",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.96%",
     "time": 254,
-    "timeDay": 19550,
-    "timeWeek": 5028,
-    "timeMonth": 1411,
+    "timeDay": 13070,
+    "timeWeek": 4482,
+    "timeMonth": 1371,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-10-08": 33,
       "2025-10-20": 33,
       "2025-11-18": 82,
-      "2026-07-23": 0
+      "2026-07-23": 88
     }
   },
   {
