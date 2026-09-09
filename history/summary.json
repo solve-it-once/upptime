@@ -13,7 +13,7 @@
     "time": 274,
     "timeDay": 380,
     "timeWeek": 339,
-    "timeMonth": 277,
+    "timeMonth": 282,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2025-11-18": 123
@@ -33,7 +33,7 @@
     "time": 269,
     "timeDay": 217,
     "timeWeek": 328,
-    "timeMonth": 262,
+    "timeMonth": 266,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -55,7 +55,7 @@
     "time": 247,
     "timeDay": 270,
     "timeWeek": 312,
-    "timeMonth": 276,
+    "timeMonth": 283,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -76,7 +76,7 @@
     "time": 342,
     "timeDay": 324,
     "timeWeek": 338,
-    "timeMonth": 270,
+    "timeMonth": 277,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2025-11-18": 123
@@ -96,7 +96,7 @@
     "time": 258,
     "timeDay": 481,
     "timeWeek": 369,
-    "timeMonth": 223,
+    "timeMonth": 228,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-10-08": 33,
@@ -119,7 +119,7 @@
     "time": 384,
     "timeDay": 532,
     "timeWeek": 459,
-    "timeMonth": 349,
+    "timeMonth": 354,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2025-11-18": 196,
@@ -132,17 +132,17 @@
     "url": "https://mgoblog.com",
     "icon": "https://icons.duckduckgo.com/ip3/mgoblog.com.ico",
     "slug": "m-go-blog",
-    "status": "down",
-    "uptime": "80.25%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.14%",
+    "status": "up",
+    "uptime": "80.24%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "35.73%",
     "time": 258,
-    "timeDay": 104,
-    "timeWeek": 134,
-    "timeMonth": 130,
-    "timeYear": 142,
+    "timeDay": 91,
+    "timeWeek": 127,
+    "timeMonth": 128,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2026-05-02": 221,
       "2026-05-01": 1440,
@@ -388,7 +388,7 @@
       "2026-08-23": 0,
       "2026-08-31": 11,
       "2026-08-30": 122,
-      "2026-09-09": 1
+      "2026-09-09": 115
     }
   },
   {
@@ -405,7 +405,7 @@
     "time": 132,
     "timeDay": 216,
     "timeWeek": 161,
-    "timeMonth": 133,
+    "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -441,7 +441,7 @@
     "time": 281,
     "timeDay": 435,
     "timeWeek": 375,
-    "timeMonth": 330,
+    "timeMonth": 331,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2026-01-22": 1330,
@@ -483,7 +483,7 @@
     "time": 158,
     "timeDay": 262,
     "timeWeek": 175,
-    "timeMonth": 138,
+    "timeMonth": 140,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -501,7 +501,7 @@
     "time": 187,
     "timeDay": 243,
     "timeWeek": 231,
-    "timeMonth": 186,
+    "timeMonth": 189,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-11-18": 123,
@@ -522,7 +522,7 @@
     "time": 107,
     "timeDay": 111,
     "timeWeek": 133,
-    "timeMonth": 99,
+    "timeMonth": 97,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -540,8 +540,8 @@
     "time": 813,
     "timeDay": 367,
     "timeWeek": 253,
-    "timeMonth": 284,
-    "timeYear": 694,
+    "timeMonth": 288,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2025-10-01": 28,
       "2025-10-08": 23
@@ -561,8 +561,8 @@
     "time": 450,
     "timeDay": 420,
     "timeWeek": 445,
-    "timeMonth": 386,
-    "timeYear": 430,
+    "timeMonth": 384,
+    "timeYear": 429,
     "dailyMinutesDown": {}
   }
 ]
