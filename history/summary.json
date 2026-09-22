@@ -132,15 +132,15 @@
     "url": "https://mgoblog.com",
     "icon": "https://icons.duckduckgo.com/ip3/mgoblog.com.ico",
     "slug": "m-go-blog",
-    "status": "down",
-    "uptime": "80.44%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.23%",
+    "status": "up",
+    "uptime": "80.43%",
+    "uptimeDay": "87.03%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "39.23%",
     "time": 255,
-    "timeDay": 111,
-    "timeWeek": 132,
+    "timeDay": 115,
+    "timeWeek": 131,
     "timeMonth": 140,
     "timeYear": 142,
     "dailyMinutesDown": {
@@ -376,7 +376,7 @@
       "2026-08-31": 11,
       "2026-08-30": 122,
       "2026-09-09": 115,
-      "2026-09-22": 1
+      "2026-09-22": 187
     }
   },
   {
